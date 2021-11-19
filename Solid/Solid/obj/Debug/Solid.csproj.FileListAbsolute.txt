@@ -1,0 +1,2 @@
+C:\Users\21145\Documents\Developer\C#\Padrões de Projetos\Solid - Desenvolvedor IO\Solid\Solid\obj\Debug\Solid.csprojAssemblyReference.cache
+C:\Users\21145\Documents\Developer\C#\Padrões de Projetos\Solid - Desenvolvedor IO\Solid\Solid\obj\Debug\Solid.csproj.CoreCompileInputs.cache
